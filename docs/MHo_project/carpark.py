@@ -7,6 +7,7 @@ class CarparkManager(CarparkSensorListener,CarparkDataProvider,):
     
     def __init__(self, number_of_bays):
     
+        self.number_of_bays = number_of_bays
         self.available_bays = number_of_bays
         self._temp = 0
         self.C_M_display = None
@@ -14,7 +15,12 @@ class CarparkManager(CarparkSensorListener,CarparkDataProvider,):
 
     @property   
     def available_spaces(self):
-        return max(self.available_bays,0)
+        if self.available_bays < 0:
+            return 0
+        # elif self.available_bays > self.number_of_bays:
+        #     return self.number_of_bays
+        else:
+            return self.available_bays
 
 
     
@@ -38,13 +44,15 @@ class CarparkManager(CarparkSensorListener,CarparkDataProvider,):
         self.available_bays = self.available_bays - 1
         print('Available bays ' , self.available_spaces)
         self.logging_information("car in, licence plate", license_plate)
+        self.logging_information("available bays", self.available_spaces)
         self.update()
 
     def outgoing_car(self,license_plate):
         print('Car out! ' + license_plate)
-        self.available_bays = self.available_bays + 1
+        self.available_bays = min(self.available_bays + 1, self.number_of_bays)
         print('Available bays ' , self.available_spaces)
         self.logging_information("car out, licence plate", license_plate) 
+        self.logging_information("available bays", self.available_spaces)
         self.update()
 
     def temperature_reading(self,reading):
@@ -54,8 +62,8 @@ class CarparkManager(CarparkSensorListener,CarparkDataProvider,):
         self.update()
 
     def logging_information(self, message, value):
-        with open("samples_and_snippets\\log.txt", "a") as file:
-                file.write(time.strftime("%d:%b:%Y:%H:%M:%S",self.current_time) + str(message) + ": " + str(value) + '\n')
+        with open("docs\MHo_project\\log.txt", "a") as file:
+                file.write(time.strftime("%d:%b:%Y:%H:%M:%S",self.current_time) +" " + str(message) + ": " + str(value) + '\n')
                 file.close()
 
     def update(self):

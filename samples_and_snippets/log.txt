@@ -1,0 +1,7 @@
+25:Jun:2025:10:44:52temperature: 2.0
+25:Jun:2025:10:44:52temperature: 255.0
+25:Jun:2025:10:46:08temperature: 5.0
+25:Jun:2025:10:46:09temperature: 54.0
+25:Jun:2025:10:46:09temperature: 544.0
+25:Jun:2025:10:46:18car in, licence plate: fjj
+25:Jun:2025:10:46:18car out, licence plate: fjj

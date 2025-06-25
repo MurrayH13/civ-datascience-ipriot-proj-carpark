@@ -1,0 +1,106 @@
+25:Jun:2025:11:22:50 temperature: 8.0
+25:Jun:2025:11:22:51 temperature: 88.0
+25:Jun:2025:11:23:00 car in, licence plate: ader56
+25:Jun:2025:11:23:00 available bays: 4
+25:Jun:2025:11:23:01 car in, licence plate: ader56
+25:Jun:2025:11:23:01 available bays: 3
+25:Jun:2025:11:23:01 car in, licence plate: ader56
+25:Jun:2025:11:23:01 available bays: 2
+25:Jun:2025:11:23:02 car in, licence plate: ader56
+25:Jun:2025:11:23:02 available bays: 1
+25:Jun:2025:11:23:04 car in, licence plate: ader56
+25:Jun:2025:11:23:04 available bays: 0
+25:Jun:2025:11:23:05 car in, licence plate: ader56
+25:Jun:2025:11:23:05 available bays: 0
+25:Jun:2025:11:23:05 car in, licence plate: ader56
+25:Jun:2025:11:23:05 available bays: 0
+25:Jun:2025:11:23:05 car in, licence plate: ader56
+25:Jun:2025:11:23:05 available bays: 0
+25:Jun:2025:11:23:06 car in, licence plate: ader56
+25:Jun:2025:11:23:06 available bays: 0
+25:Jun:2025:11:23:06 car in, licence plate: ader56
+25:Jun:2025:11:23:06 available bays: 0
+25:Jun:2025:11:23:08 car out, licence plate: ader56
+25:Jun:2025:11:23:08 available bays: 0
+25:Jun:2025:11:23:08 car out, licence plate: ader56
+25:Jun:2025:11:23:08 available bays: 0
+25:Jun:2025:11:23:09 car out, licence plate: ader56
+25:Jun:2025:11:23:09 available bays: 0
+25:Jun:2025:11:23:09 car out, licence plate: ader56
+25:Jun:2025:11:23:09 available bays: 0
+25:Jun:2025:11:23:10 car out, licence plate: ader56
+25:Jun:2025:11:23:10 available bays: 0
+25:Jun:2025:11:23:10 car out, licence plate: ader56
+25:Jun:2025:11:23:10 available bays: 1
+25:Jun:2025:11:23:10 car out, licence plate: ader56
+25:Jun:2025:11:23:10 available bays: 2
+25:Jun:2025:11:23:10 car out, licence plate: ader56
+25:Jun:2025:11:23:10 available bays: 3
+25:Jun:2025:11:23:11 car out, licence plate: ader56
+25:Jun:2025:11:23:11 available bays: 4
+25:Jun:2025:11:23:11 car out, licence plate: ader56
+25:Jun:2025:11:23:11 available bays: 5
+25:Jun:2025:11:23:11 car out, licence plate: ader56
+25:Jun:2025:11:23:11 available bays: 5
+25:Jun:2025:11:23:12 car in, licence plate: ader56
+25:Jun:2025:11:23:12 available bays: 4
+25:Jun:2025:11:23:12 car in, licence plate: ader56
+25:Jun:2025:11:23:12 available bays: 3
+25:Jun:2025:11:23:12 car in, licence plate: ader56
+25:Jun:2025:11:23:12 available bays: 2
+25:Jun:2025:11:23:12 car in, licence plate: ader56
+25:Jun:2025:11:23:12 available bays: 1
+25:Jun:2025:11:23:13 car in, licence plate: ader56
+25:Jun:2025:11:23:13 available bays: 0
+25:Jun:2025:11:23:13 car in, licence plate: ader56
+25:Jun:2025:11:23:13 available bays: 0
+25:Jun:2025:11:23:13 car in, licence plate: ader56
+25:Jun:2025:11:23:13 available bays: 0
+25:Jun:2025:11:23:13 car in, licence plate: ader56
+25:Jun:2025:11:23:13 available bays: 0
+25:Jun:2025:11:23:13 car in, licence plate: ader56
+25:Jun:2025:11:23:13 available bays: 0
+25:Jun:2025:11:23:14 car in, licence plate: ader56
+25:Jun:2025:11:23:14 available bays: 0
+25:Jun:2025:11:23:14 car in, licence plate: ader56
+25:Jun:2025:11:23:14 available bays: 0
+25:Jun:2025:11:23:14 car in, licence plate: ader56
+25:Jun:2025:11:23:14 available bays: 0
+25:Jun:2025:11:23:14 car in, licence plate: ader56
+25:Jun:2025:11:23:14 available bays: 0
+25:Jun:2025:11:23:17 car out, licence plate: ader56
+25:Jun:2025:11:23:17 available bays: 0
+25:Jun:2025:11:23:18 car out, licence plate: ader56
+25:Jun:2025:11:23:18 available bays: 0
+25:Jun:2025:11:23:18 car out, licence plate: ader56
+25:Jun:2025:11:23:18 available bays: 0
+25:Jun:2025:11:23:18 car out, licence plate: ader56
+25:Jun:2025:11:23:18 available bays: 0
+25:Jun:2025:11:23:18 car out, licence plate: ader56
+25:Jun:2025:11:23:18 available bays: 0
+25:Jun:2025:11:23:18 car out, licence plate: ader56
+25:Jun:2025:11:23:18 available bays: 0
+25:Jun:2025:11:23:19 car out, licence plate: ader56
+25:Jun:2025:11:23:19 available bays: 0
+25:Jun:2025:11:23:19 car out, licence plate: ader56
+25:Jun:2025:11:23:19 available bays: 0
+25:Jun:2025:11:23:19 car out, licence plate: ader56
+25:Jun:2025:11:23:19 available bays: 1
+25:Jun:2025:11:23:19 car out, licence plate: ader56
+25:Jun:2025:11:23:19 available bays: 2
+25:Jun:2025:11:23:19 car out, licence plate: ader56
+25:Jun:2025:11:23:19 available bays: 3
+25:Jun:2025:11:23:20 car out, licence plate: ader56
+25:Jun:2025:11:23:20 available bays: 4
+25:Jun:2025:11:23:20 car out, licence plate: ader56
+25:Jun:2025:11:23:20 available bays: 5
+25:Jun:2025:11:23:20 car out, licence plate: ader56
+25:Jun:2025:11:23:20 available bays: 5
+25:Jun:2025:11:23:20 car out, licence plate: ader56
+25:Jun:2025:11:23:20 available bays: 5
+25:Jun:2025:11:23:21 car out, licence plate: ader56
+25:Jun:2025:11:23:21 available bays: 5
+25:Jun:2025:11:23:21 car out, licence plate: ader56
+25:Jun:2025:11:23:21 available bays: 5
+25:Jun:2025:11:23:21 car out, licence plate: ader56
+25:Jun:2025:11:23:21 available bays: 5
